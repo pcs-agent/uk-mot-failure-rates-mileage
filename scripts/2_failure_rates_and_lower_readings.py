@@ -2,7 +2,7 @@
 WORK = "work"
 import pandas as pd, numpy as np, os
 OUT='out'; os.makedirs(OUT,exist_ok=True)
-a=pd.read_parquet(WORK + '/nt4_2023.parquet'); b=pd.read_parquet(WORK + '/nt4_2025.parquet')
+a=pd.read_parquet(WORK + '/nt4_2023.parquet'); b=pd.read_parquet(WORK + '/nt4full_2025.parquet')
 FM={'PE':'Petrol','DI':'Diesel','HY':'Hybrid','HYBRID ELECTRIC (CLEAN)':'Hybrid','EL':'Electric','ELECTRIC':'Electric','ED':'Other','ELECTRIC DIESEL':'Other'}
 for d in (a,b):
     d['make']=d.make.astype(str).str.strip().str.upper(); d['model']=d.model.astype(str).str.strip().str.upper()

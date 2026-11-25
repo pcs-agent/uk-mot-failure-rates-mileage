@@ -1,0 +1,115 @@
+area,name,checkable_tests,step_down,expected_at_national_rates,ratio
+ML,Motherwell,137162,19,9.8,1.93
+G,Glasgow,436337,59,32.4,1.82
+E,East London,279558,186,107.1,1.74
+NE,Newcastle upon Tyne,479755,78,45.6,1.71
+BB,Blackburn,237346,61,37.1,1.64
+WF,Wakefield,255831,50,31.4,1.59
+KA,Kilmarnock,154472,19,12.6,1.51
+L,Liverpool,301687,61,41.3,1.48
+DY,Dudley,191947,35,23.8,1.47
+KY,Kirkcaldy,163753,21,14.5,1.45
+EH,Edinburgh,355077,41,28.6,1.44
+RM,Romford,231397,63,43.8,1.44
+M,Manchester,411879,73,51.4,1.42
+WV,Wolverhampton,189525,34,23.9,1.42
+OL,Oldham,188279,34,25.2,1.35
+CH,Chester,325269,54,40.2,1.34
+SA,Swansea,354583,56,42.6,1.32
+S,Sheffield,649983,112,85.4,1.31
+B,Birmingham,851038,169,129.6,1.3
+TS,Cleveland,263564,38,29.5,1.29
+PA,Paisley,129325,12,9.4,1.28
+WS,Walsall,208503,37,29.9,1.24
+BD,Bradford,245169,54,44.1,1.22
+DH,Durham,138757,16,13.5,1.19
+DT,Dorchester,114550,22,18.5,1.19
+DD,Dundee,114616,11,9.4,1.17
+HR,Hereford,107915,19,16.2,1.17
+ME,Rochester,305160,46,39.7,1.16
+DL,Darlington,167459,20,17.5,1.15
+SS,Southend-on-Sea,250698,34,30.2,1.13
+NG,Nottingham,541953,79,69.8,1.13
+AB,Aberdeen,217424,18,16.2,1.11
+BL,Bolton,216722,39,35.0,1.11
+DE,Derby,394166,53,47.9,1.11
+CW,Crewe,174722,19,17.4,1.09
+LS,Leeds,308242,39,35.9,1.09
+SE,South East London,232793,47,43.4,1.08
+DN,Doncaster,378685,53,49.0,1.08
+WN,Wigan,133834,14,13.1,1.07
+SR,Sunderland,96067,10,9.3,1.07
+WA,Warrington,290419,28,26.4,1.06
+IG,Ilford,125814,30,28.2,1.06
+N,North London,198543,48,45.9,1.05
+CR,Croydon,196133,39,37.4,1.04
+FY,Blackpool,121633,15,14.4,1.04
+EN,Enfield,169918,26,24.9,1.04
+ST,Stoke-on-Trent,320085,41,39.9,1.03
+PR,Preston,266264,34,33.2,1.02
+CV,Coventry,423262,60,59.0,1.02
+PL,Plymouth,311737,48,47.2,1.02
+CA,Carlisle,169961,18,17.9,1.01
+CT,Canterbury,220819,29,29.5,0.98
+LL,Llandudno,273050,38,38.6,0.98
+BS,Bristol,504882,64,67.4,0.95
+TR,Truro,178957,27,28.6,0.94
+NR,Norwich,405250,55,58.3,0.94
+EX,Exeter,327759,46,48.9,0.94
+TQ,Torquay,155043,21,22.5,0.93
+CM,Chelmsford,333161,36,38.6,0.93
+RH,Redhill,297198,34,36.9,0.92
+CF,Cardiff,465788,55,59.6,0.92
+DG,Dumfries,68168,6,6.7,0.9
+HD,Huddersfield,112676,10,11.1,0.9
+NN,Northampton,389539,60,66.5,0.9
+SN,Swindon,260376,32,35.6,0.9
+BH,Bournemouth,307302,36,40.2,0.89
+SW,South West London,138906,19,21.6,0.88
+AL,St Albans,125241,12,13.8,0.87
+SY,Shrewsbury,194952,22,25.3,0.87
+BN,Brighton,352155,39,44.6,0.87
+SG,Stevenage,205296,21,24.6,0.86
+RG,Reading,436162,50,59.8,0.84
+BR,Bromley,98335,7,8.3,0.84
+HG,Harrogate,78841,6,7.2,0.83
+SM,Sutton,68073,8,9.8,0.82
+SL,Slough,204916,30,36.5,0.82
+NP,Newport,249552,31,37.6,0.82
+TA,Taunton,190732,24,29.9,0.8
+CO,Colchester,226933,25,31.6,0.79
+SK,Stockport,285674,19,24.1,0.79
+GL,Gloucester,360965,40,50.9,0.79
+TN,Tunbridge Wells,385038,38,49.7,0.77
+LE,Leicester,496792,51,66.7,0.76
+LA,Lancaster,156950,14,18.7,0.75
+SO,Southampton,351895,36,48.2,0.75
+FK,Falkirk,121710,7,9.4,0.74
+GU,Guildford,392192,36,49.6,0.73
+IV,Inverness,122644,8,10.9,0.73
+BA,Bath,248276,26,36.2,0.72
+TW,Twickenham,211505,23,32.4,0.71
+PE,Peterborough,520442,54,76.8,0.7
+UB,Southall,188213,39,55.4,0.7
+HP,Hemel Hempstead,272115,26,38.1,0.68
+IP,Ipswich,338391,34,50.3,0.68
+NW,North West London,201943,30,45.0,0.67
+DA,Dartford,210564,18,26.9,0.67
+TF,Telford,110323,11,16.6,0.66
+WD,Watford,111237,8,12.4,0.64
+PO,Portsmouth,415186,35,55.1,0.64
+TD,Galashiels,54871,3,4.7,0.63
+MK,Milton Keynes,291268,26,42.4,0.61
+OX,Oxford,330439,29,48.2,0.6
+HU,Hull,200270,13,22.1,0.59
+LN,Lincoln,168707,13,21.9,0.59
+WR,Worcester,171091,13,22.5,0.58
+LU,Luton,189674,24,41.4,0.58
+YO,York,277609,18,31.1,0.58
+W,West London,85482,7,12.7,0.55
+HA,Harrow,185147,30,54.6,0.55
+SP,Salisbury,139700,11,22.0,0.5
+CB,Cambridge,201206,14,29.2,0.48
+PH,Perth,83761,3,7.3,0.41
+KT,Kingston upon Thames,234847,10,25.8,0.39
+HX,Halifax,71744,3,7.9,0.38

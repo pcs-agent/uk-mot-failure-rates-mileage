@@ -1,0 +1,10 @@
+pattern,description,readings,share_pct,median_drop_miles
+spike,Earlier reading out of line (one-off typo),65620,34.06,11129
+unit,Kilometres and miles mixed up,48415,25.13,34476
+dip,Lower reading out of line (one-off typo),26772,13.9,12135
+stayed,Stayed lower at the next MOT,22655,11.76,22720
+open,No later MOT yet,18627,9.67,28601
+digit,A digit missing,5538,2.87,87013
+tiny,"Token reading under 1,000",2722,1.41,77320
+reset,Reset to near zero (often a new instrument cluster),1510,0.78,82082
+rollover,Five-digit odometer rolled over,785,0.41,94239

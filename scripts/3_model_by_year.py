@@ -26,7 +26,7 @@ MODELS = [  # (make, display name, first words of the DVSA model field that coun
  ("PEUGEOT","208",["208"]),("PEUGEOT","2008",["2008"]),("PEUGEOT","3008",["3008"]),("PEUGEOT","308",["308"]),("PEUGEOT","107",["107"]),
  ("SUZUKI","Swift",["SWIFT"]),("DACIA","Sandero",["SANDERO"]),("DACIA","Duster",["DUSTER"]),
 ]
-b = pd.read_parquet(WORK + '/nt4_2025.parquet', columns=['make','model','test_result','test_mileage','first_use_date','fuel_type'])
+b = pd.read_parquet(WORK + '/nt4full_2025.parquet', columns=['make','model','test_result','test_mileage','first_use_date','fuel_type'])
 b['make'] = b.make.astype(str).str.strip().str.upper()
 b['base'] = b.model.astype(str).str.strip().str.upper().str.split().str[0]
 b['fail'] = b.test_result.isin(['F','PRS'])

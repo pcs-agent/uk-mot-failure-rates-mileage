@@ -10,7 +10,7 @@ con.execute(f"""
 CREATE TEMP TABLE t25 AS
 SELECT vehicle_id, test_date, test_mileage AS m, fuel_type AS fuel, first_use_date,
        date_diff('day', first_use_date, test_date)/365.25 AS age
-FROM (SELECT *, row_number() OVER (PARTITION BY vehicle_id ORDER BY test_date) rn FROM read_parquet('{W}/nt4_2025.parquet'))
+FROM (SELECT *, row_number() OVER (PARTITION BY vehicle_id ORDER BY test_date) rn FROM read_parquet('{W}/nt4full_2025.parquet'))
 WHERE rn=1 AND test_mileage BETWEEN 1 AND 400000 AND first_use_date IS NOT NULL
 """)
 con.execute(f"""
